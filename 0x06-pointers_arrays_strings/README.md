@@ -1,0 +1,1 @@
+scrips to perform pointers
